@@ -4,10 +4,18 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
-.dark-mode{
-    background-color: black;
-    color: white;
-}
 .CBG {
     text-align:center ;
+}
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 5%;
+    margin:  10px 620px;
+}
+header {
+    background-color: palevioletred;
+}
+.pader {
+    padding: 20px;
 }
